@@ -13,7 +13,6 @@ pipeline{
             }
         }
     }
-    
     stages {
         stage("Checkout for SCM"){
             steps{
